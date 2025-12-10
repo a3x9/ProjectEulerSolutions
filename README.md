@@ -4,15 +4,15 @@ Publicani is -for now- a small software and finance team. Founded by two Univers
 
 # Project Euler Solutions
 
-A collection of Python solutions to Project Euler problems. The Publicanii team absolutely does not intend to openly share the answers and methods to Project Euler's questions and thereby hinder users from experiencing the mathematical pleasure of solving problems. 
-All solutions and explanations here are provided solely to show an alternative, different perspective. The Publicanii team has great respect for all of Project Euler's rules and the Project Euler community it is part of. 
+A collection of solutions to Project Euler problems.
+All solutions and explanations here are provided solely to show an alternative, different perspective. For 1st to 100th problems; Project Euler, gives permission to share solutions public. The Publicanii team has great respect for all of Project Euler's rules and the Project Euler community it is part of.
 
 ## Structure
 
 Each problem is organized in its own directory containing:
 - `problemX.py` - Python implementation of problem X
 - `problemX.c` - C implementation of problem X
-- `explanation.md` - Step-by-step explanation of the solution approach
+- `explanation.md` - Step-by-step explanation of the solutions approach
 
 ## About Project Euler
 
